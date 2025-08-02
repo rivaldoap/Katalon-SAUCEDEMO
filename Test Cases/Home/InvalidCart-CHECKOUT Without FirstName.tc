@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>InvalidCart-CHECKOUT Without FirstName</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c008ff98-8310-4294-8901-9b34cefd51c8</testCaseGuid>
+</TestCaseEntity>

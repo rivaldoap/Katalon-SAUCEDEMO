@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>invalidCheckoutWithoutSelectedProduct</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cfde6bd2-3a61-46e7-8ec9-479f4b26743b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>removeSauceLabsFleeceJacket</name>
+   <tag></tag>
+   <elementGuidId>7ec4af07-e85b-4a38-8200-9e1050b57071</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='cart_contents_container']/div[1]/div[1]/div[4]/div[2]/div[2]/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>Fleece</name>
+      <type>Main</type>
+      <value>//body/div[@id='page_wrapper']/div[@id='contents_wrapper']/div[@id='cart_contents_container']/div[1]/div[1]/div[4]/div[2]/div[2]/button[1]</value>
+      <webElementGuid>5c95f2f9-74a6-4d71-a2ff-7d08a3df3856</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
